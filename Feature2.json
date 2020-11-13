@@ -1,3 +1,4 @@
 {
-    "myProperty": "myValue"
+    "myProperty": "myValue",
+    "anotherProperty": "value"
 }
